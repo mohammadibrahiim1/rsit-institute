@@ -39,6 +39,13 @@
   width: 30vw;
   margin: 0 auto;
 }
+.signUp-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 70%;
+  margin: 0 auto;
+}
 
 .signIn-footer .button {
   width: 30vw;

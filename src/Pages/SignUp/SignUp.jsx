@@ -43,7 +43,7 @@ const SignUp = () => {
                     type="name"
                     name="name"
                     id="name"
-                    placeholder="Mohammad Ibrahim"
+                    placeholder="someone"
                     className=" px-3 py-1 border rounded-md dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100 input"
                   />
                 </div>
@@ -111,7 +111,7 @@ const SignUp = () => {
         </section>
         <section>
           <div>
-            <Lottie options={defaultOptions} height={400} width={400} />
+            <Lottie options={defaultOptions} height={500} width={500} />
           </div>
         </section>
       </section>
