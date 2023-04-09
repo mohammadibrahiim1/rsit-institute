@@ -15,9 +15,9 @@ const SignUp = () => {
   };
   return (
     <div>
-      <section className="signUp-container" >
+      <section className="signUp-container">
         <section className="signUp-section">
-          <div className="flex flex-col max-w-md p-6 rounded-md sm:p-10 dark:bg-gray-900 dark:text-gray-100">
+          <div className="flex flex-col  p-6 rounded-md sm:p-10 dark:bg-gray-900 dark:text-gray-100">
             <div className="mb-8 text-center">
               <h1 className="my-3 text-3xl font-bold text-[#38BDF8]">
                 সাইনইন <span className="text-orange-500 pl-1"> করুন</span>
@@ -44,7 +44,7 @@ const SignUp = () => {
                     name="name"
                     id="name"
                     placeholder="Mohammad Ibrahim"
-                    className="w-full px-3 py-1 border rounded-md dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100 input"
+                    className=" px-3 py-1 border rounded-md dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100 input"
                   />
                 </div>
                 <div>
@@ -59,7 +59,7 @@ const SignUp = () => {
                     name="email"
                     id="email"
                     placeholder="leroy@jenkins.com"
-                    className="w-full px-3 py-1 border rounded-md dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100 input"
+                    className="px-3 py-1 border rounded-md dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100 input"
                   />
                 </div>
                 <div>
@@ -73,7 +73,7 @@ const SignUp = () => {
                     name="password"
                     id="password"
                     placeholder="*****"
-                    className="w-full px-3 py-1 border rounded-md dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100 input"
+                    className=" px-3 py-1 border rounded-md dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100 input"
                   />
                 </div>
                 <Link
@@ -84,17 +84,17 @@ const SignUp = () => {
                   পাসওয়ার্ড ভুলে গেছেন?
                 </Link>
               </div>
-              <div className="space-y-2 ">
+              <div className="space-y-2 signIn-footer">
                 <div>
                   <button
                     type="button"
-                    className="w-full px-8 py-3 font-semibold rounded-md 
+                    className=" button px-8 py-3 font-semibold rounded-md 
                   signIn-button bg-slate-800 hover:bg-slate-700 text-white"
                   >
                     সাইনইন করুন
                   </button>
                 </div>
-                <p className="px-6 text-sm text-center text-slate-700">
+                <p className="px-6 text-sm py-2 text-center text-slate-700">
                   আপনি কী সাইনইন করেছেন?
                   <Link
                     rel="noopener noreferrer"
