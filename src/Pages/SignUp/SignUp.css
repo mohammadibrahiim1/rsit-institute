@@ -44,4 +44,8 @@
   letter-spacing: 0.036em;
 }
 
-
+.signUp-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
