@@ -1,0 +1,34 @@
+.hero-info {
+  width: 648px;
+  height: 348px;
+  margin: auto 300px;
+}
+
+.hero-content .img {
+  width: 900px;
+  height: 548px;
+}
+.hero-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 99.95%;
+  margin: 0 auto;
+  /* gap: 4rem; */
+}
+.hero-container .btn-primary {
+  height: 56px;
+  color: var(--gray-white, #fff);
+  /* Button/L */
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  letter-spacing: -0.18px;
+  text-transform: capitalize;
+  padding: 0px 32px 0px 32px;
+  background: #ff6636;
+  border: 1px solid #ff6636;
+  border-radius: 0;
+}

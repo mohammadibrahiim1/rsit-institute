@@ -7,7 +7,7 @@
   font-size: 32px;
   font-style: normal;
   font-weight: 600;
-  line-height: 124%; 
+  line-height: 124%;
   letter-spacing: -0.96px;
 }
 
@@ -60,7 +60,7 @@
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
-  line-height: 48px; 
+  line-height: 48px;
   letter-spacing: -0.128px;
   text-transform: capitalize;
 }
@@ -85,7 +85,18 @@
   align-items: center;
   gap: 3rem;
   border: 1px solid var(--gray-100, #e9eaf0);
+  border-radius: 0;
   background: var(--gray-white, #fff);
   color: #4e5566;
   text-transform: capitalize;
+  width: 200px;
+  height: 48px;
+}
+.navbar .dropdown-hover .dropdown-content {
+  border: 1px solid var(--gray-100, #e9eaf0);
+  border-radius: 0;
+  background: var(--gray-white, #fff);
+  color: #4e5566;
+  text-transform: capitalize;
+  width: 200px;
 }
