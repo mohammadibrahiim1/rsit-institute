@@ -1,8 +1,17 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "./Home.css";
 import Categories from "../../Components/Categories/Categories";
 
 const Home = () => {
+  const [courses, setCourses] = useState([]);
+  useEffect(() => {
+    fetch("courses.json")
+      .then((res) => res.json())
+      .then((data) => {
+        setCourses(data);
+        console.log(data);
+      });
+  }, []);
   return (
     <div>
       <div className="hero">
@@ -19,6 +28,9 @@ const Home = () => {
       </div>
       <section>
         <Categories></Categories>
+        <section>
+          <div>{courses.length}</div>{" "}
+        </section>
       </section>
     </div>
   );

@@ -1,0 +1,2594 @@
+[
+  {
+    "id": 1,
+    "title": "Beginner to Pro in Excel: Financial Modeling and Valuation",
+    "category": "Developments",
+    "rating": 4,
+    "total_students": "211,434 students",
+    "price": 35,
+    "cover_image": "https://i.ibb.co/jMPczfd/Course-Images.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 17,
+    "course_duration": "6 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Complete Blender Creator: Learn 3D Modelling for Beginners",
+    "category": "Design",
+    "rating": 4.9,
+    "total_students": "197,637 students",
+    "price": 49,
+    "cover_image": "https://i.ibb.co/fXgSPfb/Course-Images-1.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 29,
+    "course_duration": "8 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Adobe Premiere Pro CC – Advanced Training Course",
+    "category": "It & Software",
+    "rating": 4.6,
+    "total_students": "236,568 students",
+    "price": 32,
+    "cover_image": "https://i.ibb.co/sVbg1dH/Course-Images-2.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 19,
+    "course_duration": "7 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Ultimate AWS Certified Solutions Architect Associate 2021",
+    "category": "Finance & Accounting",
+    "rating": 4.1,
+    "total_students": "511,123 students",
+    "price": 13,
+    "cover_image": "https://i.ibb.co/gtb5nK5/Course-Images-3.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 9,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ultimate Google Ads Training 2020: Profit with Pay Per Click",
+    "category": "Finance & Accounting",
+    "rating": 4.1,
+    "total_students": "154,817 students",
+    "price": 9,
+    "cover_image": "https://i.ibb.co/y4fZWWZ/Course-Images-4.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 5,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Learn Ethical Hacking From Scratch 2021",
+    "category": "Developments",
+    "rating": 4.8,
+    "total_students": "414,444 students",
+    "price": 35,
+    "cover_image": "https://i.ibb.co/d76BZNT/Course-Images-5.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Angular - The Complete Guide (2021 Edition)",
+    "category": "Office Productivity",
+    "rating": 4.3,
+    "total_students": "197,637 students",
+    "price": 16,
+    "cover_image": "https://i.ibb.co/9GgbFrj/Course-Images-6.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "How to get Diamond in soloQ | League of Legends | Season 11",
+    "category": "Business",
+    "rating": 4.7,
+    "total_students": "435,671 students",
+    "price": 23,
+    "cover_image": "https://i.ibb.co/kq4zT3H/Course-Images-7.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "category": "Personal Development",
+    "rating": 4.6,
+    "total_students": "181,811 students",
+    "price": 13,
+    "cover_image": "https://i.ibb.co/vhB1fSL/Course-Images-8.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "SQL for NEWBS: Weekender Crash Course",
+    "category": "Design",
+    "rating": 5.0,
+    "total_students": "452,561 students",
+    "price": 32,
+    "cover_image": "https://i.ibb.co/601Jg9r/Course-Images-9.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "SEO 2021: Complete SEO Training + SEO for WordPress Websites",
+    "category": "Wordpress",
+    "rating": 5.0,
+    "total_students": "197,637 students",
+    "price": 24,
+    "cover_image": "https://i.ibb.co/X5Q6y4y/Course-Images-10.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "[NEW] Ultimate AWS Certified Cloud Practitioner - 2021",
+    "category": "Wordpress",
+    "rating": 4.7,
+    "total_students": "435,655 students",
+    "price": 23,
+    "cover_image": "https://i.ibb.co/RGFMN8m/Course-Images-11.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Data Structures & Algorithms Essentials (2021)",
+    "category": "Health & Fitness",
+    "rating": 4.7,
+    "total_students": "469,875 students",
+    "price": 51,
+    "cover_image": "https://i.ibb.co/hYN85xJ/Course-Images-12.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Complete Adobe Lightroom Megacourse: Beginner to Expert",
+    "category": "Marketing",
+    "rating": 4.9,
+    "total_students": "111,222 students",
+    "price": 89,
+    "cover_image": "https://i.ibb.co/Vv2Hy1z/Course-Images-13.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Digital Marketing Masterclass - 23 Courses in 1",
+    "category": "Office Productivity",
+    "rating": 4.9,
+    "total_students": "961,228 students",
+    "price": 37,
+    "cover_image": "https://i.ibb.co/Y8z4qXQ/Course-Images-14.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "The Ultimate Drawing Course - Beginner to Advanced",
+    "category": "Photography & video",
+    "rating": 4.9,
+    "total_students": "501,228 students",
+    "price": 58,
+    "cover_image": "https://i.ibb.co/28YTT0T/Course-Images-15.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Instagram Marketing 2021: Complete Guide To Instagram Gro...",
+    "category": "Lifestyle",
+    "rating": 4.3,
+    "total_students": "854 students",
+    "price": 16,
+    "cover_image": "https://i.ibb.co/bX2nHKw/Course-Images-16.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Automate the Boring Stuff with Python Programming",
+    "category": "It & Software",
+    "rating": 4.5,
+    "total_students": "987,854 students",
+    "price": 17,
+    "cover_image": "https://i.ibb.co/dcSwh3J/Course-Images-17.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Selenium WebDriver with Java -Basics to Advanced+Frameworks",
+    "category": "Personal Development",
+    "rating": 4.7,
+    "total_students": "287,854 students",
+    "price": 27,
+    "cover_image": "https://i.ibb.co/N97g8hp/Course-Images-18.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "iPhone Photography | Take Professional Photos On Your iPhone",
+    "category": "Photography & video",
+    "rating": 4.9,
+    "total_students": "387,854 students",
+    "price": 37,
+    "cover_image": "https://i.ibb.co/rMFGHMh/Course-Images-19.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Mega Digital Marketing Course A-Z: 12 Courses in 1 + Updates",
+    "category": "Marketing",
+    "rating": 4.9,
+    "total_students": "2,711 students",
+    "price": 92,
+    "cover_image": "https://i.ibb.co/42kjCSk/Course-Images-20.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "category": "Music",
+    "rating": 4.1,
+    "total_students": "492,711 students",
+    "price": 25,
+    "cover_image": "https://i.ibb.co/W56R2DF/Course-Images-21.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+    "category": "Business",
+    "rating": 3.5,
+    "total_students": "982,761 students",
+    "price": 35,
+    "cover_image": "https://i.ibb.co/2t8XHXG/Course-Images-22.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Premiere Pro CC for Beginners: Video Editing in Premiere",
+    "category": "Music",
+    "rating": 3.5,
+    "total_students": "890 students",
+    "price": 45,
+    "cover_image": "https://i.ibb.co/nn9VK78/Course-Images-23.png",
+    "trailer_image": "https://i.ibb.co/Tg7kf0F/Trailer.png",
+    "description": "It gives you a huge self-satisfaction when you look at your work and say, I made this!. I love that feeling after I'm done working on something. When I lean back in my chair, look at the final result with a smile, and have this little spark joy moment. It's especially satisfying when I know I just made $5,000.I do! And that's why I got into this field. Not for the love of Web Design, which I do now. But for the LIFESTYLE! There are many ways one can achieve this lifestyle. This is my way. This is how I achieved a lifestyle I've been fantasizing about for five years. And I'm going to teach you the same. Often people think Web Design is complicated. That it needs some creative talent or knack for computers. Sure, a lot of people make it very complicated. People make the simplest things complicated. Like most subjects taught in the universities. But I don't like complicated. I like easy. I like life hacks. I like to take the shortest and simplest route to my destination. I haven't gone to an art school or have a computer science degree. I'm an outsider to this field who hacked himself into it, somehow ending up being a sought-after professional. That's how I'm going to teach you Web Design. So you're not demotivated on your way with needless complexity. So you enjoy the process because it's simple and fun. So you can become a Freelance Web Designer in no time.For example, this is a Design course but I don't teach you Photoshop. Because Photoshop is needlessly complicated for Web Design. But people still teach it to web designers. I don't. I teach Figma – a simple tool that is taking over the design world. You will be designing a complete website within a week while others are still learning how to create basic layouts in Photoshop.Second, this is a Development course. But I don't teach you how to code. Because for Web Design coding is needlessly complicated and takes too long to learn. Instead, I teach Webflow – a tool that is taking over the web design world. You will be building complex websites within two weeks while others are still learning the basics of HTML & CSS. Third, this is a Freelancing course. But I don't just teach you how to write great proposals. I give you a winning proposal template. When you're done with the course, you will have a stunning portfolio website with portfolio pieces already in it. Buy this course now and take it whenever the time is right for you.",
+    "info": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing.",
+    "created_by": [
+      {
+        "name": "Dianne Russell",
+        "profile_img": "https://i.ibb.co/ngQ2hQZ/Image-1.png"
+      },
+      {
+        "name": "Kristin Watson",
+        "profile_img": "https://i.ibb.co/5T8wbmW/Image.png"
+      }
+    ],
+    "offer_price": 25,
+    "course_duration": "10 month",
+    "course_level": "Beginner and Intermediate",
+    "language": "Mandarin",
+    "subtitle_language": "English",
+    "course_includes": [
+      {
+        "advantage": "Lifetime access"
+      },
+      {
+        "advantage": "30-days money-back guarantee"
+      },
+      {
+        "advantage": "Free exercises file & downloadable resources"
+      },
+      {
+        "advantage": "Shareable certificate of completion"
+      },
+      {
+        "advantage": "Access on mobile, tablet and TV"
+      },
+      {
+        "advantage": "English subtitles"
+      },
+      {
+        "advantage": "100% online course"
+      }
+    ],
+    "curriculum": [
+      {
+        "sections": "6 Sections",
+        "lectures": "202 Lectures",
+        "hours": "19h 37m"
+      },
+
+      {
+        "sub_sections": [
+          {
+            "section_title": "Getting Started",
+            "lectures_number": "4 Lectures",
+            "duration": "51m",
+            "lectures": [
+              { "lecture_title": "what is webflow?", "duration": "07:31" },
+              { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
+              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
+              { "lecture_title": "Practice Project", "duration": "5.3MB" }
+            ]
+          },
+
+          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
+          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
+          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secrets of Making Money Freelancing",
+            "lectures_number": "21 Lectures",
+            "duration": "38m"
+          },
+          {
+            "section_title": "Advanced",
+            "lectures_number": "39 Lectures",
+            "duration": "91m"
+          }
+        ]
+      }
+    ],
+    "course_instructors": [
+      {
+        "instructor_title": "Vako Shvili",
+        "course": "Web Designer & Best-Selling Instructor",
+        "rating": 4.9,
+        "total_course": "09 course",
+        "about": "One day Vako had enough with the 9-to-5 grind, or more like 9-to-9 in his case, and quit his job, or more like got himself fired from his own startup. He decided to work on his dream: be his own boss, travel the world, only do the work he enjoyed...",
+        "instructor_image": "https://i.ibb.co/kX3qSN0/Image-2.png",
+        "students": "236,568 Students"
+      },
+      {
+        "instructor_title": "Nima Tahami",
+        "course": "Entrepreneur & Designer • Founder of ShiftRide",
+        "rating": 4.6,
+        "total_course": "01 course",
+        "about": "I'm an entrepreneur & designer with a high passion for building products of all sorts and seeing ideas come to life. As a serial entrepreneur, I've designed and built projects in fields ranging from fashion to technology. I have over 10 years of experience in both...",
+        "instructor_image": "https://i.ibb.co/ydbCTJV/Image-3.png",
+        "students": "5342 students"
+      }
+    ]
+  }
+]

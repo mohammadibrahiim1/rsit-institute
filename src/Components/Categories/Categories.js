@@ -5,10 +5,10 @@ import CategoryCard from "../CategoryCard/CategoryCard";
 import { Link } from "react-router-dom";
 
 const Categories = () => {
-  const { data, isLoading, isError, error } = useGetCategoriesQuery();
+  const { data } = useGetCategoriesQuery();
 
   const courseCategories = data?.data;
-  //   console.log(courseCategories);
+
   return (
     <div>
       <div className="text-[2.5rem] font-semibold pt-[5rem] pb-[2.5rem] text-[#1D2026] text-center">
