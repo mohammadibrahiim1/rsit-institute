@@ -14,7 +14,7 @@ const Categories = () => {
       <div className="text-[2.5rem] font-semibold pt-[5rem] pb-[2.5rem] text-[#1D2026] text-center">
         Browse top category
       </div>
-      <div className="grid grid-cols-4 justify-items-center items-center w-[1180px] mx-auto gap-y-5 pb-[2.5rem]">
+      <div className="grid grid-cols-4 justify-items-center items-center w-[1180px] mx-auto gap-y-5 gap-x-[8.5rem] pb-[2.5rem]">
         {courseCategories?.map((category) => (
           <CategoryCard category={category} key={category._id}></CategoryCard>
         ))}

@@ -1,6 +1,5 @@
 .category-card {
-  width: 272px;
-  /* height: 64px; */
+  width: 310px;
   background: var(--secondary-100, #ebebff);
 }
 .category-card .body {
@@ -9,7 +8,6 @@
   align-items: center;
   gap: 20px;
   padding: 20px;
- 
 }
 .category-card .body svg {
   padding: 1rem;
