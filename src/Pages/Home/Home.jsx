@@ -1,5 +1,6 @@
 import React from "react";
 import "./Home.css";
+import Categories from "../../Components/Categories/Categories";
 
 const Home = () => {
   return (
@@ -16,6 +17,9 @@ const Home = () => {
           </div>
         </div>
       </div>
+      <section>
+        <Categories></Categories>
+      </section>
     </div>
   );
 };

@@ -1,14 +1,14 @@
 [
-  { "id": 1, "name": "Label", "courseNumber": "63,476 Courses" },
-  { "id": 2, "name": "Business", "courseNumber": "52,822 Courses" },
-  { "id": 3, "name": "Finance & Accounting", "courseNumber": "33,841 Courses" },
-  { "id": 4, "name": "IT & Software", "courseNumber": "22,649 Courses" },
-  { "id": 5, "name": "Personal Development", "courseNumber": "20,126 Courses" },
-  { "id": 6, "name": "Office Productivity", "courseNumber": "13,932 Courses" },
-  { "id": 7, "name": "Marketing", "courseNumber": "12,068 Courses" },
-  { "id": 8, "name": "Photography & Video", "courseNumber": "6,196 Courses" },
-  { "id": 9, "name": "Lifestyle", "courseNumber": "2,736 Courses" },
-  { "id": 10, "name": "Design", "courseNumber": "2,600 Courses" },
-  { "id": 11, "name": "Health & Fitness", "courseNumber": "1,678 Courses" },
-  { "id": 12, "name": "Music", "courseNumber": "959 Courses" }
+  { "category_id": 1, "name": "Label", "courseNumber": "63,476 Courses" },
+  { "category_id": 2, "name": "Business", "courseNumber": "52,822 Courses" },
+  { "category_id": 3, "name": "Finance & Accounting", "courseNumber": "33,841 Courses" },
+  { "category_id": 4, "name": "IT & Software", "courseNumber": "22,649 Courses" },
+  { "category_id": 5, "name": "Personal Development", "courseNumber": "20,126 Courses" },
+  { "category_id": 6, "name": "Office Productivity", "courseNumber": "13,932 Courses" },
+  { "category_id": 7, "name": "Marketing", "courseNumber": "12,068 Courses" },
+  { "category_id": 8, "name": "Photography & Video", "courseNumber": "6,196 Courses" },
+  { "category_id": 9, "name": "Lifestyle", "courseNumber": "2,736 Courses" },
+  { "category_id": 10, "name": "Design", "courseNumber": "2,600 Courses" },
+  { "category_id": 11, "name": "Health & Fitness", "courseNumber": "1,678 Courses" },
+  { "category_id": 12, "name": "Music", "courseNumber": "959 Courses" }
 ]

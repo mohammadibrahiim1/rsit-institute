@@ -1,0 +1,17 @@
+.category-card {
+  width: 272px;
+  /* height: 64px; */
+  background: var(--secondary-100, #ebebff);
+}
+.category-card .body {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+ 
+}
+.category-card .body svg {
+  padding: 1rem;
+  background-color: #fff;
+}
