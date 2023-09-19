@@ -1,14 +1,98 @@
 [
-  { "category_id": 1, "name": "Label", "courseNumber": "63,476 Courses" },
-  { "category_id": 2, "name": "Business", "courseNumber": "52,822 Courses" },
-  { "category_id": 3, "name": "Finance & Accounting", "courseNumber": "33,841 Courses" },
-  { "category_id": 4, "name": "IT & Software", "courseNumber": "22,649 Courses" },
-  { "category_id": 5, "name": "Personal Development", "courseNumber": "20,126 Courses" },
-  { "category_id": 6, "name": "Office Productivity", "courseNumber": "13,932 Courses" },
-  { "category_id": 7, "name": "Marketing", "courseNumber": "12,068 Courses" },
-  { "category_id": 8, "name": "Photography & Video", "courseNumber": "6,196 Courses" },
-  { "category_id": 9, "name": "Lifestyle", "courseNumber": "2,736 Courses" },
-  { "category_id": 10, "name": "Design", "courseNumber": "2,600 Courses" },
-  { "category_id": 11, "name": "Health & Fitness", "courseNumber": "1,678 Courses" },
-  { "category_id": 12, "name": "Music", "courseNumber": "959 Courses" }
+  {
+    "category_id": 1,
+    "name": "Label",
+    "primary": "#564FFD",
+    "secondary": "#EBEBFF",
+    "courseNumber": "63,476 Courses",
+    "category_img": "https://i.ibb.co/VqbwsWr/Cpu.png"
+  },
+  {
+    "category_id": 2,
+    "name": "Business",
+    "primary": "#23BD33",
+    "secondary": "#E1F7E3",
+    "courseNumber": "52,822 Courses",
+    "category_img": "https://i.ibb.co/4mTqZhm/Handshake.png"
+  },
+  {
+    "category_id": 3,
+    "name": "Finance & Accounting",
+    "primary": "#FD8E1F",
+    "secondary": "#FFF2E5",
+    "courseNumber": "33,841 Courses",
+    "category_img": "https://i.ibb.co/WxngkWh/Credit-Card.png"
+  },
+  {
+    "category_id": 4,
+    "name": "IT & Software",
+    "primary": "#E34444",
+    "secondary": "#FFF0F0",
+    "courseNumber": "22,649 Courses",
+    "category_img": "https://i.ibb.co/K2hzzvk/Chart-Bar-Horizontal.png"
+  },
+  {
+    "category_id": 5,
+    "name": "Personal Development",
+    "primary": "#564FFD",
+    "secondary": "#EBEBFF",
+    "courseNumber": "20,126 Courses",
+    "category_img": "https://i.ibb.co/3cjxMkg/BugDroid.png"
+  },
+  {
+    "category_id": 6,
+    "name": "Office Productivity",
+    "primary": "#23BD33",
+    "secondary": "#E1F7E3",
+    "courseNumber": "13,932 Courses",
+    "category_img": "https://i.ibb.co/j5DJbVD/Receipt.png"
+  },
+  {
+    "category_id": 7,
+    "name": "Marketing",
+    "primary": "#FD8E1F",
+    "secondary": "#FFF2E5",
+    "courseNumber": "12,068 Courses",
+    "category_img": "https://i.ibb.co/cTGHDqL/Megaphone-Simple.png"
+  },
+  {
+    "category_id": 8,
+    "name": "Photography & Video",
+    "primary": "#E34444",
+    "secondary": "#FFF0F0",
+    "courseNumber": "6,196 Courses",
+    "category_img": "https://i.ibb.co/r6bGZJn/Camera.png"
+  },
+  {
+    "category_id": 9,
+    "name": "Lifestyle",
+    "primary": "#E34444",
+    "secondary": "#FFF0F0",
+    "courseNumber": "2,736 Courses",
+    "category_img": "https://i.ibb.co/ZS0PkBQ/Package.png"
+  },
+  {
+    "category_id": 10,
+    "name": "Design",
+    "primary": "#FD8E1F",
+    "secondary": "#FFF2E5",
+    "courseNumber": "2,600 Courses",
+    "category_img": "https://i.ibb.co/B4gqbkz/PenNib.png"
+  },
+  {
+    "category_id": 11,
+    "name": "Health & Fitness",
+    "primary": "#23BD33",
+    "secondary": "#E1F7E3",
+    "courseNumber": "1,678 Courses",
+    "category_img": "https://i.ibb.co/JFZNyYr/First-Aid-Kit.png"
+  },
+  {
+    "category_id": 12,
+    "name": "Music",
+    "primary": "#564FFD",
+    "secondary": "#EBEBFF",
+    "courseNumber": "959 Courses",
+    "category_img": "https://i.ibb.co/dGX9bST/Headphones.png"
+  }
 ]
