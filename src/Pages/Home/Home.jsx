@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./Home.css";
 import Categories from "../../Components/Categories/Categories";
 import BestSellingCourses from "../../Components/BestSellingCourses/BestSellingCourses";
+import FeaturesCourses from "../../Components/FeaturesCourses/FeaturesCourses";
 
 const Home = () => {
   const [courses, setCourses] = useState([]);
@@ -30,6 +31,7 @@ const Home = () => {
       <section>
         <Categories></Categories>
         <BestSellingCourses></BestSellingCourses>
+        <FeaturesCourses></FeaturesCourses>
         <section>
           <div>{courses.length}</div>{" "}
         </section>
