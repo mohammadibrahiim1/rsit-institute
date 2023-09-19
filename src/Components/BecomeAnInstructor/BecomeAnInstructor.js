@@ -10,24 +10,35 @@ const steps = [
 
 const BecomeAnInstructor = () => {
   return (
-    <div className="flex justify-items-center items-center w-[82.5rem] mx-auto gap-[3rem] py-[5rem]">
-      <div>
-        <img className="w-[648px] h-[270px]" src="https://i.ibb.co/2ycVwQ6/Become-an-Instructor.png" alt="" srcset="" />
-      </div>
-      <div>
-        <div className="text-[#1D2026] font-semibold text-[2rem]  ">Your teaching & earning steps</div>
-        <div className="grid grid-cols-2 gap-[2rem] pt-[1.688rem]">
-          {steps.map((step) => (
-            <div className="flex justify-items-center items-center gap-3">
-              <div
-                className="border rounded-full px-4 py-2"
-                style={{ color: `${step.color}`, backgroundColor: `${step.background}`, border: `${step.background}` }}
-              >
-                {step.slNo}
+    <div className="bg-[#F5F7FA]">
+      <div className="flex justify-items-center items-center w-[82.5rem] mx-auto gap-[3rem] py-[5rem]">
+        <div>
+          <img
+            className="w-[648px] h-[270px]"
+            src="https://i.ibb.co/2ycVwQ6/Become-an-Instructor.png"
+            alt=""
+            srcset=""
+          />
+        </div>
+        <div className="bg-[#FFF] p-[2.5rem]">
+          <div className="text-[#1D2026] font-semibold text-[2rem]  ">Your teaching & earning steps</div>
+          <div className="grid grid-cols-2 gap-[2rem] pt-[1.688rem]">
+            {steps.map((step) => (
+              <div className="flex justify-items-center items-center gap-3">
+                <div
+                  className="border rounded-full px-4 py-2"
+                  style={{
+                    color: `${step.color}`,
+                    backgroundColor: `${step.background}`,
+                    border: `${step.background}`,
+                  }}
+                >
+                  {step.slNo}
+                </div>
+                <div className="font-semibold text-[1rem] ">{step.text}</div>
               </div>
-              <div className="font-semibold text-[1rem] ">{step.text}</div>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
       </div>
     </div>

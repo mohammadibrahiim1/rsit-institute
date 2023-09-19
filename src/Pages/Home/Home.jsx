@@ -35,8 +35,8 @@ const Home = () => {
         <Categories></Categories>
         <BestSellingCourses></BestSellingCourses>
         <FeaturesCourses></FeaturesCourses>
-        <TopInstructors></TopInstructors>
         <BecomeAnInstructor></BecomeAnInstructor>
+        <TopInstructors></TopInstructors>
         <TrustedCompanies></TrustedCompanies>
         <section>
           <div>{courses.length}</div>{" "}
