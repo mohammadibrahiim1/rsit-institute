@@ -3,6 +3,9 @@ import "./Home.css";
 import Categories from "../../Components/Categories/Categories";
 import BestSellingCourses from "../../Components/BestSellingCourses/BestSellingCourses";
 import FeaturesCourses from "../../Components/FeaturesCourses/FeaturesCourses";
+import TopInstructors from "../../Components/TopInstructors/TopInstructors";
+import TrustedCompanies from "../../Components/TrustedCompanies/TrustedCompanies";
+import BecomeAnInstructor from "../../Components/BecomeAnInstructor/BecomeAnInstructor";
 
 const Home = () => {
   const [courses, setCourses] = useState([]);
@@ -32,6 +35,9 @@ const Home = () => {
         <Categories></Categories>
         <BestSellingCourses></BestSellingCourses>
         <FeaturesCourses></FeaturesCourses>
+        <TopInstructors></TopInstructors>
+        <BecomeAnInstructor></BecomeAnInstructor>
+        <TrustedCompanies></TrustedCompanies>
         <section>
           <div>{courses.length}</div>{" "}
         </section>
