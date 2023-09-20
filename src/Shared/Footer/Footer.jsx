@@ -302,8 +302,8 @@ const Footer = () => {
               © 2021 - Eduflex. Designed by <strong>Templatecookie</strong>. All rights reserved
             </p>
           </aside>
-          <nav className="md:place-self-center md:justify-self-end">
-            <div className="dropdown dropdown-hover dropdown-top flex">
+          <nav className="">
+            <div className="dropdown dropdown-hover dropdown-top mr-[4rem]">
               <label tabIndex={0} className="btn">
                 Language
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
