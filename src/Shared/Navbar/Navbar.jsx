@@ -154,8 +154,8 @@ const Navbar = () => {
             </svg>
           </div>
           <div className="btn-container">
-            <Link className="btn btn-ghost">Create Account</Link>
-            <Link className="btn">Sign In</Link>
+            <Link className="btn btn-ghost font-sans">Create Account</Link>
+            <Link className="btn font-sans">Sign In</Link>
           </div>
         </div>
       </div>

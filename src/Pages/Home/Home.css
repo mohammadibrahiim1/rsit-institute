@@ -23,8 +23,6 @@
 .hero-container .btn-primary {
   height: 56px;
   color: var(--gray-white, #fff);
-  /* Button/L */
-  font-family: Inter;
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
