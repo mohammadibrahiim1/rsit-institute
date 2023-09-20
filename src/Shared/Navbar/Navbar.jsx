@@ -32,7 +32,7 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <Link className="normal-case text-xl">
+          <Link to={"/"} className="normal-case text-xl">
             <svg xmlns="http://www.w3.org/2000/svg" width="42" height="40" viewBox="0 0 42 40" fill="none">
               <path
                 d="M2.25 15L21 5L39.75 15L21 25L2.25 15Z"

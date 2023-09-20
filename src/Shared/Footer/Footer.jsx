@@ -38,7 +38,7 @@ const Footer = () => {
 
       <div className="bg-[#1D2026] border-y-[1px] border-[#b7bac7] ">
         <footer className=" w-[82.5rem] footer mx-auto py-10  text-base-content  ">
-          <aside className="w-[26.5rem] text-[1.2rem] text-[#8C94A3]">
+          <aside Link className="w-[26.5rem] text-[1.2rem] text-[#8C94A3]">
             <Link className="normal-case text-xl">
               <svg xmlns="http://www.w3.org/2000/svg" width="42" height="40" viewBox="0 0 42 40" fill="none">
                 <path
@@ -66,7 +66,7 @@ const Footer = () => {
               E-tutor
             </Link>
             <p className="py-[1.25rem] leading-7">
-              Aliquam rhoncus ligula est, non pulvinar elit convallis nec. Donec mattis odio at.
+              Aliquam rhoncus ligulaest, non pulvinar elit convallis nec. Donec mattis odio at.
             </p>
 
             <div className="flex justify-center items-center gap-3">
@@ -171,24 +171,24 @@ const Footer = () => {
           </aside>
           <nav className="">
             <header className=" text-[.875rem] font-semibold text-white uppercase ">Top 4 category</header>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">Development</a>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">Finance & Accounting</a>
-            <a className="llink link-hover text-[#8C94A3] font-semibold py-2">Design</a>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">Business</a>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">Development</Link>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">Finance & Accounting</Link>
+            <Link className="llink link-hover text-[#8C94A3] font-semibold py-2">Design</Link>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">Business</Link>
           </nav>
           <nav>
             <header className="text-[.875rem] font-semibold text-white uppercase">Quick Links</header>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">About us</a>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">Become Instructor</a>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">Contact</a>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">Career</a>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">About us</Link>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">Become Instructor</Link>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">Contact</Link>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">Career</Link>
           </nav>
           <nav>
             <header className="text-[.875rem] font-semibold text-white uppercase">support</header>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">Help Center</a>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">FAQs</a>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">Terms & Condition</a>
-            <a className="link link-hover text-[#8C94A3] font-semibold py-2">Privacy Policy</a>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">Help Center</Link>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">FAQs</Link>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">Terms & Condition</Link>
+            <Link className="link link-hover text-[#8C94A3] font-semibold py-2">Privacy Policy</Link>
           </nav>
           <nav>
             <header className="text-[.875rem] font-semibold text-white uppercase ">Download Our App</header>
@@ -304,7 +304,7 @@ const Footer = () => {
           </aside>
           <nav className="">
             <div className="dropdown dropdown-hover dropdown-top mr-[4rem]">
-              <label tabIndex={0} className="btn">
+              <label tabIndex={0} className="btn rounded-0">
                 Language
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                   <path

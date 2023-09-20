@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import "./Home.css";
 import Categories from "../../Components/Categories/Categories";
 import BestSellingCourses from "../../Components/BestSellingCourses/BestSellingCourses";
@@ -9,15 +9,15 @@ import BecomeAnInstructor from "../../Components/BecomeAnInstructor/BecomeAnInst
 import RecentCourses from "../../Components/RecentCourses/RecentCourses";
 
 const Home = () => {
-  const [courses, setCourses] = useState([]);
-  useEffect(() => {
-    fetch("courses.json")
-      .then((res) => res.json())
-      .then((data) => {
-        setCourses(data);
-        console.log(data);
-      });
-  }, []);
+  // const [courses, setCourses] = useState([]);
+  // useEffect(() => {
+  //   fetch("courses.json")
+  //     .then((res) => res.json())
+  //     .then((data) => {
+  //       setCourses(data);
+  //       console.log(data);
+  //     });
+  // }, []);
   return (
     <div>
       <div className="hero">
