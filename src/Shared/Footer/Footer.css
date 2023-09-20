@@ -10,3 +10,15 @@
   line-height: 124%;
   letter-spacing: -0.96px;
 }
+
+.btn {
+  display: flex;
+  padding: 0px 48px;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  background: var(--primary-500, #1d2026);
+  border: 1px solid #363b47;
+  text-transform: capitalize;
+  border-radius: 0;
+}
