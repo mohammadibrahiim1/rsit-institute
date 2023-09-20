@@ -6,6 +6,7 @@ import FeaturesCourses from "../../Components/FeaturesCourses/FeaturesCourses";
 import TopInstructors from "../../Components/TopInstructors/TopInstructors";
 import TrustedCompanies from "../../Components/TrustedCompanies/TrustedCompanies";
 import BecomeAnInstructor from "../../Components/BecomeAnInstructor/BecomeAnInstructor";
+import RecentCourses from "../../Components/RecentCourses/RecentCourses";
 
 const Home = () => {
   const [courses, setCourses] = useState([]);
@@ -35,12 +36,10 @@ const Home = () => {
         <Categories></Categories>
         <BestSellingCourses></BestSellingCourses>
         <FeaturesCourses></FeaturesCourses>
+        <RecentCourses></RecentCourses>
         <BecomeAnInstructor></BecomeAnInstructor>
         <TopInstructors></TopInstructors>
         <TrustedCompanies></TrustedCompanies>
-        <section>
-          <div>{courses.length}</div>{" "}
-        </section>
       </section>
     </div>
   );
