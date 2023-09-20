@@ -13,7 +13,7 @@ const RecentCourses = () => {
   }, []);
   return (
     <div>
-      <div className="bg-[#fff] py-[9rem] ">
+      <div className="bg-[#fff] py-[5rem] ">
         <div className="w-[82.5rem] flex justify-center px-5 items-center mx-auto">
           <span className="text-[3rem] font-semibold">Recently added courses</span>
         </div>
