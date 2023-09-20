@@ -59,7 +59,7 @@ const RecentCourses = () => {
                 >
                   {bestCourse.category}
                 </div>
-                <div className="font-semibold p-[0.625rem] text-[0.875rem]">{bestCourse.title.slice(0,53)}</div>
+                <div className="font-semibold p-[0.625rem] text-[0.875rem]">{bestCourse.title.slice(0, 53)}</div>
                 <div>
                   {bestCourse.course_instructors.slice(0, 1).map((instructor) => (
                     <>
@@ -134,6 +134,27 @@ const RecentCourses = () => {
               </div>
             </div>
           ))}
+        </div>
+        <div className="flex justify-center items-center py-[4rem]">
+          <button className="text-[#FF6636] bg-[#FFEEE8] px-[1.8rem] py-[.7rem] flex gap-2 items-center">
+            <span>Browse all Course</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+              <path
+                d="M3.75 12H20.25"
+                stroke="#FF6636"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M13.5 5.25L20.25 12L13.5 18.75"
+                stroke="#FF6636"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>{" "}
+          </button>
         </div>
       </div>
     </div>
