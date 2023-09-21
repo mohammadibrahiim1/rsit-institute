@@ -1,26 +1,27 @@
 import React from "react";
-import "./SignUp.css";
+import "./SignIn.css";
 import { Link } from "react-router-dom";
 
-const SignUp = () => {
+const SignIn = () => {
   return (
     <div>
+      {" "}
       <div class=" min-w-screen  flex items-center justify-center">
         <div class="bg-white text-gray-500  shadow-xl w-full overflow-hidden">
           <div class="md:flex w-full">
             <div class="hidden md:block w-1/2 bg-[#EBEBFF]  px-10">
-              <img src="https://i.ibb.co/KrCP4ys/Saly-1.png" alt="" srcset="" />
+              <img src="https://i.ibb.co/r6wZmvS/Saly-10.png" alt="" srcset="" />
             </div>
             <div class=" w-full md:w-1/2 py-10 px-5 md:px-10">
               <div class="text-center mb-10">
                 <h1 class="font-bold text-3xl text-gray-900">Create your account</h1>
                 <div class="flex justify-center items-center">
-                  <p className="text-sm">Already have an account? </p>
+                  <p className="text-sm">Don't have an account? </p>
                   <Link
-                    to={"/signIn"}
+                    to={"/signup"}
                     class="text-[#FF6636] text-sm rounded-sm px-3 py-3 font-semibold flex items-center gap-1"
                   >
-                    <span> Sign In</span>
+                    <span> Sign Up</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none">
                       <path
                         d="M3.75 12H20.25"
@@ -40,56 +41,7 @@ const SignUp = () => {
                   </Link>
                 </div>
               </div>
-              <div className="w-[648px]  h-[460px] mx-auto">
-                <div class="flex -mx-3">
-                  <div class="w-1/2 px-3 mb-5">
-                    <label for="" class="text-xs font-semibold px-1">
-                      First name
-                    </label>
-                    <div class="flex">
-                      <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center">
-                        <i class="mdi mdi-account-outline text-gray-400 text-lg"></i>
-                      </div>
-                      <input
-                        type="text"
-                        class="w-full -ml-10 pl-10 pr-3 py-2 rounded-sm border border-gray-200 outline-none focus:border-orange-500"
-                        placeholder="First Name"
-                      />
-                    </div>
-                  </div>
-                  <div class="w-1/2 px-3 mb-5">
-                    <label for="" class="text-xs font-semibold px-1">
-                      Last name
-                    </label>
-                    <div class="flex">
-                      <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center">
-                        <i class="mdi mdi-account-outline text-gray-400 text-lg"></i>
-                      </div>
-                      <input
-                        type="text"
-                        class="w-full -ml-10 pl-10 pr-3 py-2 rounded-sm border border-gray-200 outline-none focus:border-orange-500"
-                        placeholder="Last Name"
-                      />
-                    </div>
-                  </div>
-                </div>
-                <div class="flex -mx-3">
-                  <div class="w-full px-3 mb-5">
-                    <label for="" class="text-xs font-semibold px-1">
-                      Username
-                    </label>
-                    <div class="flex">
-                      <div class="w-10 z-10 pl-1 text-center pointer-events-none flex items-center justify-center">
-                        <i class="mdi mdi-email-outline text-gray-400 text-lg"></i>
-                      </div>
-                      <input
-                        type="text"
-                        class="w-full -ml-10 pl-10 pr-3 py-2 rounded-sm border border-gray-200 outline-none focus:border-orange-500"
-                        placeholder="User Name"
-                      />
-                    </div>
-                  </div>
-                </div>
+              <div className="w-[648px]  h-[460px] pt-14 mx-auto">
                 <div class="flex -mx-3">
                   <div class="w-full px-3 mb-5">
                     <label for="" class="text-xs font-semibold px-1">
@@ -143,14 +95,12 @@ const SignUp = () => {
                   <div className="form-control">
                     <label className="cursor-pointer label">
                       <input type="checkbox" required className="checkbox checkbox-error checkbox-sm rounded-md" />
-                      <span className="label-text text-[.875rem]  px-2">
-                        I Agree with all of your <strong className="text-indigo-500">Terms & Conditions</strong>
-                      </span>
+                      <span className="label-text text-[1rem]  font-semibold  px-2">Remember me</span>
                     </label>
                   </div>
                   <div class="">
-                    <button class="block w-full max-w-xs mx-auto bg-[#FF6636]  focus:bg-indigo-700 text-white text-sm rounded-sm px-3 py-3 font-semibold flex items-center gap-3">
-                      <span> Create account</span>
+                    <button class="block w-full max-w-xs mx-auto bg-[#FF6636]  focus:bg-indigo-700 text-white text-sm rounded-sm px-[2rem] py-3 font-semibold flex items-center gap-2">
+                      <span> Sign In</span>
                       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none">
                         <path
                           d="M3.75 12H20.25"
@@ -259,25 +209,8 @@ const SignUp = () => {
           </div>
         </div>
       </div>
-
-      {/* <div class="flex items-end justify-end fixed bottom-0 right-0 mb-4 mr-4 z-10">
-        <div>
-          <Link
-            title="Buy me a beer"
-            to="https://www.buymeacoffee.com/scottwindon"
-            target="_blank"
-            class="block w-16 h-16 rounded-full transition-all shadow hover:shadow-lg transform hover:scale-110 hover:rotate-12"
-          >
-            <img
-              class="object-cover object-center w-full h-full rounded-full"
-              src="https://i.pinimg.com/originals/60/fd/e8/60fde811b6be57094e0abc69d9c2622a.jpg"
-              alt="sigUp img"
-            />
-          </Link>
-        </div>
-      </div> */}
     </div>
   );
 };
 
-export default SignUp;
+export default SignIn;
