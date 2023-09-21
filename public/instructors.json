@@ -1,159 +1,159 @@
 [
   {
-    "id": 1,
-    "course": "Lead Developer",
+    "ins_id": 1,
+    "category": "Lead Developer",
     "name": "Guy Hawkins",
     "rating": 5,
     "students": 83,
     "image": "https://i.ibb.co/W2MYWvq/instructor-20.png"
   },
   {
-    "id": 2,
-    "course": "Senior Developer",
+    "ins_id": 2,
+    "category": "Senior Developer",
     "name": "Courtney Henry",
     "rating": 4.7,
     "students": 251,
     "image": "https://i.ibb.co/dMFwLm8/instructor-19.png"
   },
   {
-    "id": 3,
-    "course": "Digital Product Designer",
+    "ins_id": 3,
+    "category": "Digital Product Designer",
     "name": "Arlene McCoy",
     "rating": 4.2,
     "students": 547,
     "image": "https://i.ibb.co/rGyPvVv/instructor-18.png"
   },
   {
-    "id": 4,
-    "course": "UI/UX Designer",
+    "ins_id": 4,
+    "category": "UI/UX Designer",
     "name": "Kristin Watson",
     "rating": 4.9,
     "students": 651,
     "image": "https://i.ibb.co/zx87Phh/instructor-17.png"
   },
   {
-    "id": 5,
-    "course": "UI/UX Designer",
+    "ins_id": 5,
+    "category": "UI/UX Designer",
     "name": "Esther Howard",
     "rating": 4.1,
     "students": 654,
     "image": "https://i.ibb.co/dQq73s6/instructor-16.png"
   },
   {
-    "id": 6,
-    "course": "Adobe Instructor",
+    "ins_id": 6,
+    "category": "Adobe Instructor",
     "name": "Jenny Wilson",
     "rating": 3.9,
     "students": 334,
     "image": "https://i.ibb.co/8z5t4Xm/instructor-15.png"
   },
   {
-    "id": 7,
-    "course": "Adobe Instructor",
+    "ins_id": 7,
+    "category": "Adobe Instructor",
     "name": "Annette Black",
     "rating": 4.0,
     "students": 511,
     "image": "https://i.ibb.co/0ttg45F/instructor-14.png"
   },
   {
-    "id": 8,
-    "course": "UI/UX Designer",
+    "ins_id": 8,
+    "category": "UI/UX Designer",
     "name": "Theresa Webb",
     "rating": 4.8,
     "students": 477,
     "image": "https://i.ibb.co/XjNkQ54/instructor-13.png"
   },
   {
-    "id": 9,
-    "course": "Lead Developer",
+    "ins_id": 9,
+    "category": "Lead Developer",
     "name": "Dianne Russell",
     "rating": 5,
     "students": 640,
     "image": "https://i.ibb.co/D8SyWbF/instructor-12.png"
   },
   {
-    "id": 10,
-    "course": "Adobe Instructor",
+    "ins_id": 10,
+    "category": "Adobe Instructor",
     "name": "Eleanor Pena",
     "rating": 4.0,
     "students": 710,
     "image": "https://i.ibb.co/QXnSVt4/instructor-11.png"
   },
   {
-    "id": 11,
-    "course": "Lead Developer",
+    "ins_id": 11,
+    "category": "Lead Developer",
     "name": "Jane Cooper",
     "rating": 3.0,
     "students": 29,
     "image": "https://i.ibb.co/svTczmW/instructor-10.png"
   },
   {
-    "id": 12,
-    "course": "Digital Product Designer",
+    "ins_id": 12,
+    "category": "Digital Product Designer",
     "name": "cody Fisher",
     "rating": 3.5,
     "students": 164,
     "image": "https://i.ibb.co/3zRb8WK/instructor-9.png"
   },
   {
-    "id": 13,
-    "course": "Adobe Instructor",
+    "ins_id": 13,
+    "category": "Adobe Instructor",
     "name": "Jerome Bell",
     "rating": 4.5,
     "students": 450,
     "image": "https://i.ibb.co/1bws0Mr/instructor-8.png"
   },
   {
-    "id": 14,
-    "course": "Adobe Instructor",
+    "ins_id": 14,
+    "category": "Adobe Instructor",
     "name": "Kathryn Murphy",
     "rating": 4.7,
     "students": 40,
     "image": "https://i.ibb.co/4JqLqST/instructor-7.png"
   },
   {
-    "id": 15,
-    "course": "UI/UX Designer",
+    "ins_id": 15,
+    "category": "UI/UX Designer",
     "name": "Robert Fox",
     "rating": 3.8,
     "students": 26,
     "image": "https://i.ibb.co/qFKbFWj/instructor-6.png"
   },
   {
-    "id": 16,
-    "course": "Senior Developer",
+    "ins_id": 16,
+    "category": "Senior Developer",
     "name": "Devon Lane",
     "rating": 3.3,
     "students": 10,
     "image": "https://i.ibb.co/cXmCj9M/instructor-5.png"
   },
   {
-    "id": 17,
-    "course": "Lead Developer",
+    "ins_id": 17,
+    "category": "Lead Developer",
     "name": "Ronald Richards",
     "rating": 4.4,
     "students": 300,
     "image": "https://i.ibb.co/745DXtm/instructor-4.png"
   },
   {
-    "id": 18,
-    "course": "UI/UX Designer",
+    "ins_id": 18,
+    "category": "UI/UX Designer",
     "name": "Floyd Miles",
     "rating": 4.6,
     "students": 570,
     "image": "https://i.ibb.co/qrTBsRV/instructor-3.png"
   },
   {
-    "id": 19,
-    "course": "Senior Developer",
+    "ins_id": 19,
+    "category": "Senior Developer",
     "name": "Bessie Cooper",
     "rating": 4.8,
     "students": 720,
     "image": "https://i.ibb.co/KmMdYz2/instructor-2.png"
   },
   {
-    "id": 20,
-    "course": "Digital Product Designer",
+    "ins_id": 20,
+    "category": "Digital Product Designer",
     "name": "Wade Warren",
     "rating": 3.6,
     "students": 800,
