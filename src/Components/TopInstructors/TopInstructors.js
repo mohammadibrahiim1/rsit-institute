@@ -26,9 +26,9 @@ const TopInstructors = () => {
                 </div>
                 <div>
                   <div className="text-[1rem] text-[#1D2026] opacity-80 text-center font-bold pt-[.75rem]">
-                    {instructor.name}
+                    {instructor?.name}
                   </div>
-                  <div className="text-[#8C94A3] text-[.875rem] text-center font-semibold pb-[.5rem]">{instructor.course}</div>
+                  <div className="text-[#8C94A3] text-[.875rem] text-center font-semibold pb-[.5rem]">{instructor?.category}</div>
 
                   <div className="card-actions justify-between px-[0.875rem] pt-[1rem] border-t-[1px]">
                     <div className="flex justify-items-center items-center gap-1 ">
@@ -46,7 +46,7 @@ const TopInstructors = () => {
               </div>
             </div>
           </>
-        ))}{" "}
+        ))}
       </div>
       <div className="flex items-center justify-center gap-2 py-[2.5rem]">
         <span className="text-[0.875rem] text-[#4E5566]">
