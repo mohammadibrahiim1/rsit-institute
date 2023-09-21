@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
-import instructorApi, {
+import {
   useGetInstructorsByCategoryQuery,
   //   useGetInstructorsQuery,
 } from "../../redux/features/instructorsApi/instructorApi";
-import { useDispatch } from "react-redux";
+// import { useDispatch } from "react-redux";
 
 const categories = [
   { title: "Lead Developer" },

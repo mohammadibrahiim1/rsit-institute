@@ -3,7 +3,7 @@ import "./CategoryCard.css";
 
 const CategoryCard = ({ category }) => {
   const { name, courseNumber, primary, secondary, category_img } = category;
-  console.log(category);
+  // console.log(category);
   return (
     <div>
       <div className="category-card" style={{ background: `${secondary}` }}>

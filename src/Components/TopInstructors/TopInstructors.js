@@ -8,7 +8,7 @@ const TopInstructors = () => {
     fetch(`instructors.json`)
       .then((res) => res.json())
       .then((data) => {
-        console.log(data);
+        // console.log(data);
         setInstructors(data);
       });
   }, []);
