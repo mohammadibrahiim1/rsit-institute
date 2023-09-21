@@ -155,7 +155,7 @@ const Navbar = () => {
           </div>
           <div className="btn-container">
             <Link className="btn btn-ghost font-sans">Create Account</Link>
-            <Link to={"/courses"} className="btn font-sans">
+            <Link to={"/signup"} className="btn font-sans">
               Sign In
             </Link>
           </div>
