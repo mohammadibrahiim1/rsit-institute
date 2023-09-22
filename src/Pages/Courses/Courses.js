@@ -321,8 +321,14 @@ const Courses = () => {
           </div>
         </div>
 
-        <div className="border-b w-[1320px] mx-auto">
-          <h1 className="text-end mx-auto my-[1.5rem]">3,145,684 results find for “ui/ux design”</h1>
+        <div className="border-b w-[1320px]  flex items-center justify-between mx-auto">
+          <h1 className="font-sans font-semibold">
+            Total Items : <strong className="text-orange-500 px-1">100</strong> courses
+          </h1>
+          <h1 className="my-[1.5rem] font-semibold text-orange-500">
+            {" "}
+            <strong className="text-indigo-500">3,145,684</strong> results find for “ui/ux design”
+          </h1>
         </div>
       </div>
 
