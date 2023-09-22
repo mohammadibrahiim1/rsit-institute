@@ -5,12 +5,119 @@ import {
 } from "../../redux/features/instructorsApi/instructorApi";
 // import { useDispatch } from "react-redux";
 
-const categories = [
-  { title: "Lead Developer" },
-  { title: "UI/UX Designer" },
-  { title: "Digital Product Designer" },
-  { title: "Adobe Instructor" },
-  { title: "Senior Developer" },
+const filters = [
+  {
+    categories: [
+      {
+        category_name: "Development",
+        sub_category: [
+          { name: "web development", number: 574 },
+          { name: "Data Science", number: 568 },
+          { name: "Mobile Development", number: 1345 },
+          { name: "Software Testing", number: 317 },
+          { name: "Software Engineering", number: 31 },
+          { name: "Software Development Tools", number: 548 },
+          { name: "No-Code Development", number: 58 },
+        ],
+      },
+      { category_name: "Business" },
+      { category_name: "Finance & Accounting" },
+      { category_name: "It & Software" },
+      { category_name: "Office Productivity" },
+      { category_name: "Personal Development" },
+      { category_name: "Design" },
+      { category_name: "Marketing" },
+      { category_name: "LifeStyle" },
+      { category_name: "Photography & Video" },
+      { category_name: "Music" },
+      { category_name: "Health & Fitness" },
+    ],
+
+    tools: [
+      {
+        tools_name: "HTML 5",
+        number: 1534,
+      },
+      {
+        tools_name: "CSS 3",
+        number: 1534,
+      },
+      {
+        tools_name: "React",
+        number: 1534,
+      },
+      {
+        tools_name: "Webflow",
+        number: 1534,
+      },
+      {
+        tools_name: "node js",
+        number: 1534,
+      },
+      {
+        tools_name: "laravel",
+        number: 1534,
+      },
+      {
+        tools_name: "Saas",
+        number: 1534,
+      },
+      {
+        tools_name: "Wordpress",
+        number: 1534,
+      },
+    ],
+
+    ratings: [
+      {
+        star: "5 Star",
+      },
+      {
+        star: "4 Star & up",
+      },
+      {
+        star: "3 Star & up",
+      },
+      {
+        star: "2 Star & up",
+      },
+      {
+        star: "1 Star & up ",
+      },
+    ],
+    levels: [
+      {
+        level: "All Level",
+      },
+      {
+        level: "Beginner",
+      },
+      {
+        level: "Intermediate",
+      },
+      {
+        level: "Expert",
+      },
+    ],
+
+    durations: [
+      {
+        duration_limit: "6-12 Months",
+      },
+      {
+        duration_limit: "3-6 Months",
+      },
+      {
+        duration_limit: "1-3 Months",
+      },
+      {
+        duration_limit: "1-4 weeks",
+      },
+      {
+        duration_limit: "1-7 days",
+      },
+    ],
+  },
 ];
 
 const popularTools = [
@@ -92,6 +199,133 @@ const Courses = () => {
 
   return (
     <div>
+      <div>
+        <div className="filters_header mt-[3rem] ">
+          <div className="w-[1320px] px-2 mx-auto flex items-center justify-between ">
+            <div className="flex items-center gap-[1.5rem]">
+              <button className="btn gap-3 bg-white hover:bg-white  text-orange-500 px-5 border-orange-500 rounded-none">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none">
+                  <path
+                    d="M12 11.25L12 20.25"
+                    stroke="#FF6636"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M12 3.75L12 8.25"
+                    stroke="#FF6636"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M18.75 18.75L18.7501 20.25"
+                    stroke="#FF6636"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M18.7501 3.75L18.75 15.75"
+                    stroke="#FF6636"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M21 15.75H16.5"
+                    stroke="#FF6636"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M5.25007 15.75L5.25 20.25"
+                    stroke="#FF6636"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M5.25 3.75L5.25007 12.75"
+                    stroke="#FF6636"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M3.00024 12.75H7.50024"
+                    stroke="#FF6636"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <path
+                    d="M14.25 8.25H9.75"
+                    stroke="#FF6636"
+                    stroke-width="1.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+                <span className="capitalize ">Filter</span>
+                <span className="border-orange-500 bg-orange-500 text-white p-1 ms-3  ">3</span>
+              </button>
+              {/* <!-- search input --> */}
+              <div class=" w-[457px] h-[48px]">
+                <div class="relative flex items-center w-full h-12 rounded-none focus-within:shadow-lg bg-white overflow-hidden border border-orange-500">
+                  <div class="grid place-items-center h-full w-12 text-gray-300">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      class="h-6 w-6"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                    >
+                      <path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+                      />
+                    </svg>
+                  </div>
+
+                  <input
+                    class="peer h-full w-full outline-none text-sm text-gray-700 pr-2"
+                    type="text"
+                    id="search"
+                    placeholder="Search something.."
+                  />
+                </div>
+              </div>
+            </div>
+
+            <div>
+              <span className="capitalize">sort by : </span>
+              <details className="dropdown ">
+                <summary className="m-1 btn px-[48px] h-[48px] bg-white text-orange-500 border-gray-300 rounded-none hover:bg-white hover:border-gray-300">
+                  Trending
+                </summary>
+                <ul className="p-2 shadow menu dropdown-content z-[1] bg-base-100 rounded-box w-52">
+                  <li>
+                    <span>Item 1</span>
+                  </li>
+                  <li>
+                    <span>Item 2</span>
+                  </li>
+                </ul>
+              </details>
+            </div>
+          </div>
+        </div>
+
+        <div className="border-b w-[1320px] mx-auto">
+          <h1 className="text-end mx-auto my-[1.5rem]">3,145,684 results find for “ui/ux design”</h1>
+        </div>
+      </div>
+
       <div>
         <div className="text-[3rem] font-semibold text-center py-[3.75rem] ">
           Best selling courses in Web Development
