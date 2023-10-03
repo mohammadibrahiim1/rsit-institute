@@ -66,15 +66,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -176,15 +191,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -286,15 +316,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -396,15 +441,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -506,15 +566,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -616,15 +691,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -726,15 +816,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -836,15 +941,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -946,15 +1066,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -1056,15 +1191,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -1166,15 +1316,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -1276,15 +1441,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -1386,15 +1566,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -1496,15 +1691,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -1606,15 +1816,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -1716,15 +1941,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -1826,15 +2066,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -1936,15 +2191,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -2046,15 +2316,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -2156,15 +2441,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -2266,15 +2566,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -2376,15 +2691,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -2486,15 +2816,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
@@ -2596,15 +2941,30 @@
             "lectures": [
               { "lecture_title": "what is webflow?", "duration": "07:31" },
               { "lecture_title": "Sign up in webflow?", "duration": "07:31" },
-              { "lecture_title": "Webflow Terms & Conditions", "duration": "5.3MB" },
+              {
+                "lecture_title": "Webflow Terms & Conditions",
+                "duration": "5.3MB"
+              },
               { "lecture_title": "Teaser of Webflow", "duration": "07:31" },
               { "lecture_title": "Practice Project", "duration": "5.3MB" }
             ]
           },
 
-          { "section_title": "Secret Of Good Design", "lectures_number": "52 Lectures", "duration": "5h 49m" },
-          { "section_title": "Practice Design Like an Artist", "lectures_number": "43 Lectures", "duration": " 53m" },
-          { "section_title": "Web Development (webflow)", "lectures_number": "137 Lectures", "duration": "10h 6m" },
+          {
+            "section_title": "Secret Of Good Design",
+            "lectures_number": "52 Lectures",
+            "duration": "5h 49m"
+          },
+          {
+            "section_title": "Practice Design Like an Artist",
+            "lectures_number": "43 Lectures",
+            "duration": " 53m"
+          },
+          {
+            "section_title": "Web Development (webflow)",
+            "lectures_number": "137 Lectures",
+            "duration": "10h 6m"
+          },
           {
             "section_title": "Secrets of Making Money Freelancing",
             "lectures_number": "21 Lectures",
